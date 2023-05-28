@@ -1,0 +1,67 @@
+/* [type=reset],[type=submit],button,html [type=button] {
+    -webkit-appearance: button;
+    color: white;
+   
+} */
+.table-container {
+    overflow-x: scroll !important;
+    white-space: nowrap !important;
+}
+
+@media (max-width: 600px) {
+    .MuiTable-root {
+        display: block !important;
+        overflow-x: scroll !important;
+        -ms-overflow-style: -ms-autohiding-scrollbar !important;
+    }
+
+    .MuiTableCell-root:first-child {
+        font-size: 1.2rem;
+    }
+
+    .MuiTableCell-root:last-child {
+        font-size: 0.8rem;
+    }
+}
+.slick-dots{
+    display: none !important;
+}
+
+.slick-next:before{
+    display: none;
+}
+.slick-slider .slick-list{
+    border-radius: 20px;
+}
+
+.slick-prev:before{
+    display: none;
+}
+.slick-slider:hover .slick-prev:before{
+    display: block !important;
+}
+
+.slick-slider:hover .slick-next:before{
+    display: block !important;
+}
+
+/* .searchContainer{
+    position: absolute;
+    background-color: #fff;
+    top: 100%;
+    right: 0;
+    width: 97.2%;
+    z-index: 999;
+    border-radius: 5px;
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,0.14);
+}
+.searchDataContainer{
+    padding: .5rem
+}
+.searchRecord{
+    display: flex;
+    align-items: center;
+    padding: .3rem;
+    cursor: pointer;
+    border-radius: .25rem;
+} */

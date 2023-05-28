@@ -1,0 +1,95 @@
+.css-1vyamtt-MuiStepLabel-labelContainer.MuiStepLabel-alternativeLabel{
+    width: 100px;
+    /* //border: 1px solid red; */
+}
+.css-h2cmlr{
+    width: 100px !important;
+}
+.css-n7tliy-MuiStep-root{
+    /* // background-color: green; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: white !important;
+}
+.css-1ix0set{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: white !important;
+}
+
+.NewStep{
+    /* // background-color: yellow; */
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.NewStep1{
+    /* // background-color: yellow; */
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.css-1vyamtt-MuiStepLabel-labelContainer{
+    color: #00f902 !important;
+}
+.css-h2cmlr{
+    color: #00f902 !important;
+}
+.css-sffa3t-MuiStepLabel-label.Mui-active{
+    color:#00f902 !important;
+}
+.css-1tawob.Mui-active{
+    color:#00f902 !important;
+}
+.css-1bln76q-MuiSvgIcon-root-MuiStepIcon-root.Mui-active{
+    color:#00f902 !important;
+}
+.css-gtzpqp.Mui-active{
+    color:#00f902 !important;
+}
+.css-1bln76q-MuiSvgIcon-root-MuiStepIcon-root{
+    color:#00f902 !important;
+}
+.css-gtzpqp{
+    color:#00f902 !important;
+}
+.css-1nte4m-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root.Mui-focused .MuiOutlinedInput-notchedOutline{
+    border-color: #00f902 !important;
+    color: white;
+}
+.css-11xhz28-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root.Mui-focused .MuiOutlinedInput-notchedOutline{
+    border-color: #00f902 !important;
+    color: white;
+}
+.css-1gg41td-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root.Mui-error .MuiOutlinedInput-notchedOutline{
+    border-color: #00f902 !important;
+}
+.css-hfutr2-MuiSvgIcon-root-MuiSelect-icon{
+    color: white !important;
+}
+.css-1ka5eyc-MuiPaper-root-MuiMenu-paper-MuiPopover-paper{
+    background-color: #2b2b2b !important;
+    color: white !important;
+}
+/* // .css-1ka5eyc-MuiPaper-root-MuiMenu-paper-MuiPopover-paper:focus{
+  //  background-color: red !important;
+   // color: white !important;
+}  */
+.Mui-selected{
+    background-color: linear-gradient(45deg, rgb(0, 249, 2)) !important;
+    /* background-color: #00f902 !important; */
+    color: white !important;
+}
+.css-oapmtd{
+    background-color: #2b2b2b !important;
+}
+
+.my-link {
+    color: white; /* set default color to white */
+  }
+  
+  .my-link:active {
+    color: #00f902; /* set pressed color to green */
+  }
