@@ -1,0 +1,72 @@
+.mainContainer{
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.userDetails{
+    flex: 2;
+}
+.userProducts{
+    flex: 3;
+}
+.profileDiv{
+    text-align: center;
+    background: white;
+    width: 70%;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 0 auto;
+}
+.avatar{
+    width: 50%;
+}
+.profileBox{
+    width: 50%;
+    border-radius: 10px;
+    margin: 10px auto;
+}
+.fromDiv{
+    display: flex;
+    flex-direction: row;
+}
+.productsHeading{
+    background: white;
+    padding: 1px 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.productsContainer{
+    background: white;
+    margin-top: 20px;
+    padding: 10px 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.listContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.deleteButton{
+    padding: 7px;
+    width: 100px;
+    background: black;
+    color: white;
+    font-weight: bold;
+    font-size: medium;
+    border-radius: 10px;
+    border: 2px solid red;
+}
+.listHeading{
+    width: 25%;
+    text-align: center;
+    font-weight: bold;
+}
+.listItem{
+    width: 25%;
+    text-align: center;
+}
